@@ -6,11 +6,48 @@ I build apps and teach Flutter on [YouTube](https://youtube.com/mitchkoko) (170K
 
 ### 🎬 Popular Videos
 
-<a href="https://youtu.be/R2hLgysH6JA"><img src="https://img.youtube.com/vi/R2hLgysH6JA/mqdefault.jpg" width="180"></a>
-<a href="https://youtu.be/itY1VXp9pkc"><img src="https://img.youtube.com/vi/itY1VXp9pkc/mqdefault.jpg" width="180"></a>
-<a href="https://youtu.be/ubmLxAvImBs"><img src="https://img.youtube.com/vi/ubmLxAvImBs/mqdefault.jpg" width="180"></a>
-<a href="https://youtu.be/oPcWeluBG-g"><img src="https://img.youtube.com/vi/oPcWeluBG-g/mqdefault.jpg" width="180"></a>
-<a href="https://youtu.be/HQ_ytw58tC4"><img src="https://img.youtube.com/vi/HQ_ytw58tC4/mqdefault.jpg" width="180"></a>
+<table>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://youtu.be/oPcWeluBG-g">
+        <img src="https://img.youtube.com/vi/oPcWeluBG-g/mqdefault.jpg" width="280"><br>
+        <strong>📱 FULL Build, Launch & Monetise Apps Course</strong>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://youtu.be/ubmLxAvImBs">
+        <img src="https://img.youtube.com/vi/ubmLxAvImBs/mqdefault.jpg" width="280"><br>
+        <strong>🥷🏽 Build & Deploy a Full Stack Social Media App</strong>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://youtu.be/HQ_ytw58tC4">
+        <img src="https://img.youtube.com/vi/HQ_ytw58tC4/mqdefault.jpg" width="280"><br>
+        <strong>📱 Build, Launch & Monetise Apps Course Pt. 2</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://youtu.be/R2hLgysH6JA">
+        <img src="https://img.youtube.com/vi/R2hLgysH6JA/mqdefault.jpg" width="280"><br>
+        <strong>📱 Home Screen Widgets Tutorial</strong>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://youtu.be/itY1VXp9pkc">
+        <img src="https://img.youtube.com/vi/itY1VXp9pkc/mqdefault.jpg" width="280"><br>
+        <strong>📱 How to Publish App to Google Play Store</strong>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://youtu.be/uKz8tWbMuUw">
+        <img src="https://img.youtube.com/vi/uKz8tWbMuUw/mqdefault.jpg" width="280"><br>
+        <strong>📱 Flutter App with Supabase Backend</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
