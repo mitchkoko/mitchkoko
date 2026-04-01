@@ -4,6 +4,16 @@ I build apps and teach Flutter on [YouTube](https://youtube.com/mitchkoko) (170K
 
 ---
 
+### 🎬 Popular Videos
+
+<a href="https://youtu.be/R2hLgysH6JA"><img src="https://img.youtube.com/vi/R2hLgysH6JA/mqdefault.jpg" width="180"></a>
+<a href="https://youtu.be/itY1VXp9pkc"><img src="https://img.youtube.com/vi/itY1VXp9pkc/mqdefault.jpg" width="180"></a>
+<a href="https://youtu.be/ubmLxAvImBs"><img src="https://img.youtube.com/vi/ubmLxAvImBs/mqdefault.jpg" width="180"></a>
+<a href="https://youtu.be/oPcWeluBG-g"><img src="https://img.youtube.com/vi/oPcWeluBG-g/mqdefault.jpg" width="180"></a>
+<a href="https://youtu.be/HQ_ytw58tC4"><img src="https://img.youtube.com/vi/HQ_ytw58tC4/mqdefault.jpg" width="180"></a>
+
+---
+
 ### 📱 What I'm Building
 
 | | App | What it does |
