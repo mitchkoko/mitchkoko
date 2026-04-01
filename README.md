@@ -53,24 +53,24 @@ I build apps and teach Flutter on [YouTube](https://youtube.com/mitchkoko) (170K
 
 ### 📱 What I'm Building
 
-| | App | What it does |
-|---|-----|-------------|
-| 🔥 | [**Ritualz**](https://ritualz.app) | Minimal habit tracker with heat map visualization |
-| 💳 | [**Expensif**](https://expensif.app) | Minimal expense tracker |
-| 💬 | [**Tuteee**](https://tuteee.app) | AI-powered personal math tutor |
-| 🎮 | [**Blink Battle**](https://blinkbattle.gg) | Micro battle mobile game |
+> 🔥 [**Ritualz**](https://ritualz.app) — Minimal habit tracker with heat map visualization
+> 
+> 💳 [**Expensif**](https://expensif.app) — Minimal expense tracker
+> 
+> 💬 [**Tuteee**](https://tuteee.app) — AI-powered personal math tutor
+> 
+> 🎮 [**Blink Battle**](https://blinkbattle.gg) — Micro battle mobile game
 
 ---
 
 ### 🧑‍💻 Tech Stack
 
-| | |
-|---|---|
-| 📱 Flutter | Cross-platform UI |
-| ⚡ Supabase | Backend + Auth + Database |
-| 💰 RevenueCat | Monetization |
-| 🐦 Shorebird | Code Push |
-| ⚙️ PostHog | Analytics |
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F25A5A?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![Shorebird](https://img.shields.io/badge/Shorebird-1B2838?style=for-the-badge&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-F54E00?style=for-the-badge&logo=posthog&logoColor=white)
 
 ---
 
