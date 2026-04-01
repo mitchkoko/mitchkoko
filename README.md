@@ -6,28 +6,48 @@ I build apps and teach Flutter on [YouTube](https://youtube.com/mitchkoko) (170K
 
 ### 🎬 Popular Videos
 
-<p>
-  <a href="https://youtu.be/oPcWeluBG-g">
-    <img src="https://ytcards.demolab.com/?id=oPcWeluBG-g&title=📱+FULL+Build%2C+Launch+%26+Monetise+Apps+Course&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=280&border_radius=5" alt="FULL Build, Launch & Monetise Apps Course">
-  </a>
-  <a href="https://youtu.be/ubmLxAvImBs">
-    <img src="https://ytcards.demolab.com/?id=ubmLxAvImBs&title=🥷🏽+Build+%26+Deploy+a+Full+Stack+Social+Media+App&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=280&border_radius=5" alt="Build & Deploy a Full Stack Social Media App">
-  </a>
-  <a href="https://youtu.be/HQ_ytw58tC4">
-    <img src="https://ytcards.demolab.com/?id=HQ_ytw58tC4&title=📱+FULL+Flutter+Beginner+Course&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=280&border_radius=5" alt="FULL Flutter Beginner Course">
-  </a>
-</p>
-<p>
-  <a href="https://youtu.be/R2hLgysH6JA">
-    <img src="https://ytcards.demolab.com/?id=R2hLgysH6JA&title=📱+Home+Screen+Widgets+Tutorial&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=280&border_radius=5" alt="Home Screen Widgets Tutorial">
-  </a>
-  <a href="https://youtu.be/itY1VXp9pkc">
-    <img src="https://ytcards.demolab.com/?id=itY1VXp9pkc&title=📱+How+to+Publish+App+to+Google+Play+Store&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=280&border_radius=5" alt="How to Publish App to Google Play Store">
-  </a>
-  <a href="https://youtu.be/uKz8tWbMuUw">
-    <img src="https://ytcards.demolab.com/?id=uKz8tWbMuUw&title=🔔📱+Local+Notifications+•+Flutter+Tutorial&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=280&border_radius=5" alt="Local Notifications • Flutter Tutorial">
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://youtu.be/oPcWeluBG-g">
+        <img src="https://img.youtube.com/vi/oPcWeluBG-g/maxresdefault.jpg" width="100%"><br>
+        <sub><b>📱 FULL Build, Launch & Monetise Apps Course</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://youtu.be/ubmLxAvImBs">
+        <img src="https://img.youtube.com/vi/ubmLxAvImBs/maxresdefault.jpg" width="100%"><br>
+        <sub><b>🥷🏽 Build & Deploy a Full Stack Social Media App</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://youtu.be/HQ_ytw58tC4">
+        <img src="https://img.youtube.com/vi/HQ_ytw58tC4/maxresdefault.jpg" width="100%"><br>
+        <sub><b>📱 FULL Flutter Beginner Course</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://youtu.be/R2hLgysH6JA">
+        <img src="https://img.youtube.com/vi/R2hLgysH6JA/maxresdefault.jpg" width="100%"><br>
+        <sub><b>📱 Home Screen Widgets Tutorial</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://youtu.be/itY1VXp9pkc">
+        <img src="https://img.youtube.com/vi/itY1VXp9pkc/maxresdefault.jpg" width="100%"><br>
+        <sub><b>📱 How to Publish App to Google Play Store</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://youtu.be/uKz8tWbMuUw">
+        <img src="https://img.youtube.com/vi/uKz8tWbMuUw/maxresdefault.jpg" width="100%"><br>
+        <sub><b>🔔📱 Local Notifications • Flutter Tutorial</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
