@@ -1,8 +1,6 @@
-# Hey whatsup, I'm Mitch Koko 👋
+# I'm Mitch Koko 💜
 
 I build apps and teach Flutter on [YouTube](https://youtube.com/mitchkoko) (170K+ subs).
-
-25,000+ downloads across all apps. All built with Flutter + Supabase, monetized with RevenueCat.
 
 ---
 
@@ -11,9 +9,9 @@ I build apps and teach Flutter on [YouTube](https://youtube.com/mitchkoko) (170K
 | | App | What it does |
 |---|-----|-------------|
 | 🔥 | [**Ritualz**](https://ritualz.app) | Minimal habit tracker with heat map visualization |
-| 💳 | [**Expensif**](https://expensif.app) | Minimal expense tracker — built and shipped in one week |
+| 💳 | [**Expensif**](https://expensif.app) | Minimal expense tracker |
 | 💬 | [**Tuteee**](https://tuteee.app) | AI-powered personal math tutor |
-| 🎮 | [**Blink Battle**](https://blinkbattle.gg) | Micro battle mobile game — StarCraft-style strategy |
+| 🎮 | [**Blink Battle**](https://blinkbattle.gg) | Micro battle mobile game |
 
 ---
 
