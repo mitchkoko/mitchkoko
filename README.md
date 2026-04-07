@@ -1,6 +1,6 @@
 # Mitch Koko
 
-I teach mobile development to 170K+ on [YouTube](https://youtube.com/mitchkoko) and build apps that are live on the App Store and Play Store.
+I build apps and teach mobile development to 170K+ on [YouTube](https://youtube.com/mitchkoko).
 
 [mitchkoko.app](https://mitchkoko.app)
 
